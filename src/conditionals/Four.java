@@ -21,6 +21,7 @@ public class Four {
 		else if (x > 0 && y < 0) {
 			System.out.println("4");
 		}
+		sc.close();
 
 	}
 

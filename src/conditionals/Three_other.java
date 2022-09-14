@@ -11,8 +11,7 @@ public class Three_other {
 		
 		int b = (year % 4 == 0) && (year % 100 != 0 || year % 400 ==0) ? 1 : 0;
 		System.out.println(b);
-		
+		sc.close();
 
 	}
-
 }

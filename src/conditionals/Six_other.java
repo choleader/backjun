@@ -2,7 +2,7 @@ package conditionals;
 
 import java.util.Scanner;
 
-public class Six {
+public class Six_other {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
